@@ -9,6 +9,7 @@ Aspiring Data Analyst | Python · SQL · Power BI
 | Project | Tech Stack |
 |---|---|
 | [RFM Customer Retention Strategy](https://github.com/keertigurung/rfm-customer-retention-strategy) | Python, PostgreSQL, Power BI |
+| [Wayfair-Ecommerce-Sales-Profitability-Analysis](https://github.com/keertigurung/Wayfair-Ecommerce-Sales-Profitability-Analysis) | Python, PostgreSQL, Power BI |
 
 ### Skills
 Python (Pandas, Matplotlib) · SQL (PostgreSQL) · Power BI · Excel
