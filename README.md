@@ -26,7 +26,7 @@ Analyzed sales performance, product and category profitability, returns, and can
 
 Analyzed observed churn patterns across customer characteristics, service engagement, tenure stages and contract types using Python, PostgreSQL, and Power BI.
 
-📫 **Email:** [keerti.gurung.data@gmail.com](mailto:keerti.gurung.data@gmail.com)
+📫 **Email:** keerti.gurung.data@gmail.com
 
 
 
