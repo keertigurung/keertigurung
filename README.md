@@ -1,6 +1,6 @@
 # Hi, I'm Keerti Gurung 👋
 
-### Junior Data Analyst | SQL • Python • Power BI
+### Aspiring Data Analyst | SQL • Python • Power BI
 
 I'm a Computer Engineering graduate building hands-on experience in data analysis through practical projects.
 
